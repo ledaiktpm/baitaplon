@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XMLSchema2"
+    targetNamespace="http://tempuri.org/XMLSchema2.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/XMLSchema2.xsd"
+    xmlns:mstns="http://tempuri.org/XMLSchema2.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+  <xs:element name="thuvien">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="coso" maxOccurs="3">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nhaxb" maxOccurs="10">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="manxb"></xs:element>
+                    <xs:element name="tennxb"></xs:element>
+                    <xs:element name="sach" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="tensach"></xs:element>
+                          <xs:element name="theloai" type="the_loai"></xs:element>
+                          <xs:element name="sotrang" type="so_trang"></xs:element>
+                        </xs:sequence>
+                        <xs:attribute name ="masach" type="ma_sach"></xs:attribute>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="tencoso" type ="xs:string"></xs:attribute>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:simpleType name ="ma_sach">
+    <xs:restriction base="xs:string">
+      <xs:maxLength value="6"></xs:maxLength>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="so_trang">
+    <xs:restriction base="xs:int">
+      <xs:maxInclusive value="400"></xs:maxInclusive>
+      <xs:minInclusive value="50"></xs:minInclusive>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="the_loai">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Kinh Te"></xs:enumeration>
+      <xs:enumeration value="Co Khi"></xs:enumeration>
+      <xs:enumeration value ="Tin Hoc"></xs:enumeration>
+    </xs:restriction>
+  </xs:simpleType>
+</xs:schema>

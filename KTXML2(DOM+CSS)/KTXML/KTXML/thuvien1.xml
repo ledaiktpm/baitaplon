@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="XSLTFile1.xslt"?>
+<thuvien>
+  <coso tencs="Khu A Dai Hoc CN Ha Noi">
+    <nhaxb>
+      <manxb>A1</manxb>
+      <tennxb>Giao Duc</tennxb>
+      <sach masach="S001">
+        <tensach>Toan Cao Cap 1</tensach>
+        <theloai>Co Khi</theloai>
+        <sotrang>120</sotrang>
+      </sach>
+      <sach masach="S002">
+        <tensach>Toi Uu Hoa</tensach>
+        <theloai>Tin Hoc</theloai>
+        <sotrang>199</sotrang>
+      </sach>
+      <sach masach="S003">
+        <tensach>Mang May Tinh</tensach>
+        <theloai>Tin Hoc</theloai>
+        <sotrang>333</sotrang>
+      </sach>
+    </nhaxb>
+    <nhaxb>
+      <manxb>A2</manxb>
+      <tennxb>Thong Ke</tennxb>
+      <sach masach="TK001">
+        <tensach>sach thong ke  1</tensach>
+        <theloai>Co Khi</theloai>
+        <sotrang>130</sotrang>
+      </sach>
+      <sach masach="TK002">
+        <tensach>quy hoach tuyen tinh</tensach>
+        <theloai>Tin Hoc</theloai>
+        <sotrang>199</sotrang>
+      </sach>
+      <sach masach="TK003">
+        <tensach>sac xuat thong ke toan</tensach>
+        <theloai>Tin Hoc</theloai>
+        <sotrang>333</sotrang>
+      </sach>
+    </nhaxb>
+  </coso>
+  <coso tencs="Khu B Dai Hoc CN Ha Noi">
+    <nhaxb>
+      <manxb>B1</manxb>
+      <tennxb>Hoa Hong</tennxb>
+      <sach masach="S0001">
+        <tensach>Kinh Te Thi Truong</tensach>
+        <theloai>Kinh Te</theloai>
+        <sotrang>150</sotrang>
+      </sach>
+      <sach masach="S0005">
+        <tensach>Toan Cao Cap 2</tensach>
+        <theloai>Kinh Te</theloai>
+        <sotrang>199</sotrang>
+      </sach>
+      <sach masach="S0003">
+        <tensach>Sach Co Khi</tensach>
+        <theloai>Co Khi</theloai>
+        <sotrang>222</sotrang>
+      </sach>
+    </nhaxb>
+  </coso>
+</thuvien>

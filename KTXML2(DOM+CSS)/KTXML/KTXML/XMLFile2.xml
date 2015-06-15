@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="XSLTfile2.xslt"?>
+<thuvien >
+  <coso tencoso="Khu A dai hoc cong nghiep ha noi">
+    <nhaxb>
+      <manxb>A1</manxb>
+      <tennxb>Giao Duc</tennxb>
+      <sach masach="S001">
+        <tensach>Tin Van Phong</tensach>
+        <theloai>Tin Hoc</theloai>
+        <sotrang>120</sotrang>
+      </sach>
+      <sach masach="S002">
+        <tensach>Ke Toan Doanh Nghiep</tensach>
+        <theloai>Kinh Te</theloai>
+        <sotrang>120</sotrang>
+      </sach>
+      <sach masach="S003">
+        <tensach>Do Ga</tensach>
+        <theloai>Co Khi</theloai>
+        <sotrang>120</sotrang>
+      </sach>
+    </nhaxb>
+  </coso>
+  <coso tencoso="Khu B dai hoc cong nghiep ha noi">
+    <nhaxb>
+      <manxb>A1</manxb>
+      <tennxb>Giao Duc</tennxb>
+      <sach masach="S001">
+        <tensach>Tin Van Phong</tensach>
+        <theloai>Tin Hoc</theloai>
+        <sotrang>120</sotrang>
+      </sach>
+      <sach masach="S002">
+        <tensach>Ke Toan Doanh Nghiep</tensach>
+        <theloai>Kinh Te</theloai>
+        <sotrang>120</sotrang>
+      </sach>
+      <sach masach="S003">
+        <tensach>Do Ga</tensach>
+        <theloai>Co Khi</theloai>
+        <sotrang>120</sotrang>
+      </sach>
+    </nhaxb>
+    <nhaxb>
+      <manxb>A1</manxb>
+      <tennxb>Hoa Hong</tennxb>
+      <sach masach="S001">
+        <tensach>Tin Van Phong</tensach>
+        <theloai>Tin Hoc</theloai>
+        <sotrang>120</sotrang>
+      </sach>
+      <sach masach="S002">
+        <tensach>Ke Toan Doanh Nghiep</tensach>
+        <theloai>Kinh Te</theloai>
+        <sotrang>120</sotrang>
+      </sach>
+      <sach masach="S003">
+        <tensach>Do Ga</tensach>
+        <theloai>Co Khi</theloai>
+        <sotrang>120</sotrang>
+      </sach>
+    </nhaxb>
+  </coso>
+</thuvien>

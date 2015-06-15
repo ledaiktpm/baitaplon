@@ -1,0 +1,36 @@
+E:\BaiTapXML\KTXML\KTXML\bin\Debug\KTXML.exe
+E:\BaiTapXML\KTXML\KTXML\bin\Debug\KTXML.pdb
+E:\BaiTapXML\KTXML\KTXML\obj\x86\Debug\KTXML.csprojResolveAssemblyReference.cache
+E:\BaiTapXML\KTXML\KTXML\obj\x86\Debug\KTXML.Properties.Resources.resources
+E:\BaiTapXML\KTXML\KTXML\obj\x86\Debug\KTXML.csproj.GenerateResource.Cache
+E:\BaiTapXML\KTXML\KTXML\obj\x86\Debug\KTXML.exe
+E:\BaiTapXML\KTXML\KTXML\obj\x86\Debug\KTXML.pdb
+C:\Users\SEXY_GIRL\Desktop\KTXML\KTXML\KTXML\obj\x86\Debug\KTXML.exe
+C:\Users\SEXY_GIRL\Desktop\KTXML\KTXML\KTXML\obj\x86\Debug\KTXML.pdb
+C:\Users\SEXY_GIRL\Documents\Visual Studio 2010\Projects\KTXML\KTXML\KTXML\obj\x86\Debug\KTXML.exe
+C:\Users\SEXY_GIRL\Documents\Visual Studio 2010\Projects\KTXML\KTXML\KTXML\obj\x86\Debug\KTXML.pdb
+C:\Users\SEXY_GIRL\Documents\Visual Studio 2010\Projects\KTXML\KTXML\KTXML\bin\Debug\KTXML.exe
+C:\Users\SEXY_GIRL\Documents\Visual Studio 2010\Projects\KTXML\KTXML\KTXML\bin\Debug\KTXML.pdb
+C:\Users\SEXY_GIRL\Documents\Visual Studio 2010\Projects\KTXML\KTXML\KTXML\obj\x86\Debug\KTXML.csprojResolveAssemblyReference.cache
+C:\Users\SEXY_GIRL\Documents\Visual Studio 2010\Projects\KTXML\KTXML\KTXML\obj\x86\Debug\KTXML.Form1.resources
+C:\Users\SEXY_GIRL\Documents\Visual Studio 2010\Projects\KTXML\KTXML\KTXML\obj\x86\Debug\KTXML.Properties.Resources.resources
+C:\Users\SEXY_GIRL\Documents\Visual Studio 2010\Projects\KTXML\KTXML\KTXML\obj\x86\Debug\KTXML.csproj.GenerateResource.Cache
+C:\Users\SEXY_GIRL\Desktop\KTXML\KTXML\KTXML\bin\Debug\KTXML.exe
+C:\Users\SEXY_GIRL\Desktop\KTXML\KTXML\KTXML\bin\Debug\KTXML.pdb
+C:\Users\SEXY_GIRL\Desktop\KTXML\KTXML\KTXML\obj\x86\Debug\KTXML.csprojResolveAssemblyReference.cache
+C:\Users\SEXY_GIRL\Desktop\KTXML\KTXML\KTXML\obj\x86\Debug\KTXML.Form1.resources
+C:\Users\SEXY_GIRL\Desktop\KTXML\KTXML\KTXML\obj\x86\Debug\KTXML.Properties.Resources.resources
+C:\Users\SEXY_GIRL\Desktop\KTXML\KTXML\KTXML\obj\x86\Debug\KTXML.csproj.GenerateResource.Cache
+C:\Users\SEXY_GIRL\Desktop\THI XML\KTXML2(DOM+CSS)\KTXML\KTXML\obj\x86\Debug\KTXML.exe
+C:\Users\SEXY_GIRL\Desktop\THI XML\KTXML2(DOM+CSS)\KTXML\KTXML\obj\x86\Debug\KTXML.pdb
+C:\Users\admin\Desktop\THI XML - Copy\KTXML2(DOM+CSS)\KTXML\KTXML\obj\x86\Debug\KTXML.exe
+C:\Users\admin\Desktop\THI XML - Copy\KTXML2(DOM+CSS)\KTXML\KTXML\obj\x86\Debug\KTXML.pdb
+C:\Users\admin\Desktop\THI XML - Copy\KTXML2(DOM+CSS)\KTXML\KTXML\bin\Debug\KTXML.exe
+C:\Users\admin\Desktop\THI XML - Copy\KTXML2(DOM+CSS)\KTXML\KTXML\bin\Debug\KTXML.pdb
+C:\Users\admin\Desktop\THI XML - Copy\KTXML2(DOM+CSS)\KTXML\KTXML\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\THI XML - Copy\KTXML2(DOM+CSS)\KTXML\KTXML\obj\x86\Debug\KTXML.Form1.resources
+C:\Users\admin\Desktop\THI XML - Copy\KTXML2(DOM+CSS)\KTXML\KTXML\obj\x86\Debug\KTXML.Properties.Resources.resources
+C:\Users\admin\Desktop\THI XML - Copy\KTXML2(DOM+CSS)\KTXML\KTXML\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\THI XML - Copy\KTXML2(DOM+CSS)\KTXML\KTXML\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Documents\GitHub\baitaplon\THI XML - Copy\KTXML2(DOM+CSS)\KTXML\KTXML\obj\x86\Debug\KTXML.exe
+C:\Users\admin\Documents\GitHub\baitaplon\THI XML - Copy\KTXML2(DOM+CSS)\KTXML\KTXML\obj\x86\Debug\KTXML.pdb

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XMLSchema"
+    targetNamespace="http://tempuri.org/XMLSchema.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/XMLSchema.xsd"
+    xmlns:mstns="http://tempuri.org/XMLSchema.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+  <xs:element name="ThuVien">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="CoSo" maxOccurs="3">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="NhaXB" maxOccurs="10">
+                <xs:complexType>
+                  <xs:sequence>
+                      <xs:element name="MaNXB" type="ID"/>
+                      <xs:element name="TenNXB" type="xs:string"/>
+                      <xs:element name="Sach" maxOccurs="unbounded">
+                        <xs:complexType >
+                          <xs:sequence>
+                          <xs:element name="TenSach" type="xs:string"/>
+                          <xs:element name="TheLoai" >
+                             <xs:simpleType >
+                               <xs:restriction base="xs:string">
+                                <xs:enumeration value="Tin Hoc"/>
+                                <xs:enumeration value="Co Khi"/>
+                                <xs:enumeration value="Kinh Te"/>
+                               </xs:restriction>
+                            </xs:simpleType>
+                          </xs:element>
+                          <xs:element name="SoTrang" type="Trang"/>
+                        </xs:sequence>
+                        <xs:attribute name="MaSach" type="ID"/>
+                        </xs:complexType>
+              </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="TenCS" type="xs:string"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:simpleType name="Trang">
+    <xs:restriction base="xs:int">
+      <xs:maxExclusive value="400"/>
+      <xs:minExclusive value="50"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="ID">
+    <xs:restriction base="xs:ID">
+      <xs:maxLength value="6"/>
+    </xs:restriction>
+  </xs:simpleType>
+</xs:schema>

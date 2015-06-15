@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XMLSchema1"
+    targetNamespace="http://tempuri.org/XMLSchema1.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/XMLSchema1.xsd"
+    xmlns:mstns="http://tempuri.org/XMLSchema1.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+  <xs:element name="thuvien">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="coso" maxOccurs="3">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nhaxb" maxOccurs="10">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="manxb">
+                      <xs:simpleType>
+                        <xs:restriction base="xs:ID">
+                          <xs:maxLength value="6"></xs:maxLength>
+                        </xs:restriction>
+                      </xs:simpleType>
+                    </xs:element>
+                    <xs:element name="tennxb" type="xs:string"></xs:element>
+                    <xs:element name="sach" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="tensach"></xs:element>
+                          <xs:element name="theloai">
+                            <xs:simpleType>
+                              <xs:restriction base="xs:string">
+                                <xs:enumeration value="Tin Hoc"></xs:enumeration>
+                                <xs:enumeration value="Kinh Tee"></xs:enumeration>
+                                <xs:enumeration value="Co Khi"></xs:enumeration>
+                              </xs:restriction>
+                            </xs:simpleType>
+                          </xs:element>
+                          <xs:element name="sotrang">
+                            <xs:simpleType>
+                              <xs:restriction base="xs:int">
+                                <xs:minExclusive value="50"></xs:minExclusive>
+                                <xs:maxExclusive value="200"></xs:maxExclusive>
+                              </xs:restriction>
+                            </xs:simpleType>
+                          </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="masach" type="ID"></xs:attribute>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="tencoso" type="xs:string"></xs:attribute>
+          </xs:complexType> 
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:simpleType name="ID">
+    <xs:restriction base="xs:string">
+      <xs:maxLength value="6"></xs:maxLength>
+    </xs:restriction>
+  </xs:simpleType>
+  
+
+</xs:schema>

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="XSLTfile.xslt"?>
+
+<ThuVien  >
+  <CoSo TenCS="Khu A HAUI">
+    <NhaXB >
+      <MaNXB>A1</MaNXB>
+      <TenNXB>Giao Duc</TenNXB>
+      <Sach MaSach="S001">
+        <TenSach>Tin Van Phong</TenSach>
+        <TheLoai>Tin Hoc</TheLoai>
+        <SoTrang>120</SoTrang>
+      </Sach>
+      <Sach MaSach="S002">
+        <TenSach>Ke Toan Doanh Ngiep</TenSach>
+        <TheLoai>Kinh Te</TheLoai>
+        <SoTrang>22</SoTrang>
+      </Sach>
+      <Sach MaSach="S003">
+        <TenSach>Ke Toan Doanh Ngiep</TenSach>
+        <TheLoai>Kinh Te</TheLoai>
+        <SoTrang>180</SoTrang>
+      </Sach>
+    </NhaXB>
+    <NhaXB >
+      <MaNXB>A3</MaNXB>
+      <TenNXB>Hoa Hong</TenNXB>
+      <Sach MaSach="S004">
+        <TenSach>Tin Van Phong</TenSach>
+        <TheLoai>Tin Hoc</TheLoai>
+        <SoTrang>120</SoTrang>
+      </Sach>
+      <Sach MaSach="S005">
+        <TenSach>Ke Toan Doanh Ngiep</TenSach>
+        <TheLoai>Kinh Te</TheLoai>
+        <SoTrang>180</SoTrang>
+      </Sach>
+      <Sach MaSach="S006">
+        <TenSach>Ke Toan </TenSach>
+        <TheLoai>Kinh Te</TheLoai>
+        <SoTrang>180</SoTrang>
+      </Sach>
+    </NhaXB>
+  </CoSo>
+  <CoSo TenCS="Khu B HAUI">
+    <NhaXB >
+      <MaNXB>A4</MaNXB>
+      <TenNXB>Giao Duc</TenNXB>
+      <Sach MaSach="S007">
+        <TenSach>Tin Van Phong</TenSach>
+        <TheLoai>Tin Hoc</TheLoai>
+        <SoTrang>120</SoTrang>
+      </Sach>
+      <Sach MaSach="S008">
+        <TenSach>Ke Toan Doanh Ngiep</TenSach>
+        <TheLoai>Kinh Te</TheLoai>
+        <SoTrang>180</SoTrang>
+      </Sach>
+      <Sach MaSach="S009">
+        <TenSach>Ke Toan Doanh Ngiep</TenSach>
+        <TheLoai>Kinh Te</TheLoai>
+        <SoTrang>180</SoTrang>
+      </Sach>
+    </NhaXB>
+    <NhaXB >
+      <MaNXB>A5</MaNXB>
+      <TenNXB>Giao Duc</TenNXB>
+      <Sach MaSach="S010">
+        <TenSach>Tin Van Phong</TenSach>
+        <TheLoai>Tin Hoc</TheLoai>
+        <SoTrang>120</SoTrang>
+      </Sach>
+      <Sach MaSach="S012">
+        <TenSach>Ke Toan Doanh Ngiep</TenSach>
+        <TheLoai>Kinh Te</TheLoai>
+        <SoTrang>180</SoTrang>
+      </Sach>
+      <Sach MaSach="S013">
+        <TenSach>Ke Toan Doanh Ngiep</TenSach>
+        <TheLoai>Kinh Te</TheLoai>
+        <SoTrang>180</SoTrang>
+      </Sach>
+    </NhaXB>
+  </CoSo>
+</ThuVien>

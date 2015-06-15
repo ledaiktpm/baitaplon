@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ds>
+  <nhanvien manv="nv02">
+    <hoten>nguyễn thị hằng</hoten>
+    <diachi>hà nam</diachi>
+  </nhanvien>
+  <nhanvien manv="nv04">
+    <hoten>Nguyễn hoàng long</hoten>
+    <diachi>bắc giang</diachi>
+  </nhanvien>
+  <nhanvien manv="nv04">
+    <hoten>Nguyễn hoàng long</hoten>
+    <diachi>bắc giang</diachi>
+  </nhanvien>
+  <nhanvien manv="231">
+    <hoten>wqeq</hoten>
+    <diachi>ada</diachi>
+  </nhanvien>
+</ds>
