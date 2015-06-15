@@ -29,6 +29,7 @@
                   <th>TheLoai</th>
                   <th>So Trang</th>
                   <th>Gia</th>
+                  <th>Ma Sach</th>
                 </tr>
               
               <xsl:for-each select="sach">
@@ -48,7 +49,10 @@
                   <xsl:variable name="sotrang1" select="sotrang"/>
                   <td>
                     <xsl:value-of select="$sotrang1*3000"/>
-                  </td> 
+                  </td>
+                  <td>
+                      <xsl:value-of select="@masach"/>
+                  </td>
                 </tr>
               </xsl:for-each>
               </table>
